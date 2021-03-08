@@ -1,1 +1,2 @@
-# kromedio.github.io
+# Übungswebsite
+Nicht wirklich spannend.
